@@ -7,4 +7,4 @@ This project determines the winner of a scrabble game based on user inputted wor
 [Scrabble]( https://en.wikipedia.org/wiki/Scrabble) is a word game in which players score points by placing tiles, each bearing a single letter, onto a game board divided into a 15×15 grid of squares. The tiles must form words that, in crossword fashion, read left to right in rows or downward in columns and are included in a standard dictionary or lexicon.
 
 
---(TO DO: fix "Oh, / hai!" bug)
+***(TO DO: fix "Oh, / hai!" bug)***
