@@ -1,6 +1,5 @@
 # Scrabble
-This project determines the winner of a scrabble game based on user inputted words. Assigned on CS50’s Week 2, Lab 2. Code works fine but after running a few tests other than the standart ones, there is one specific context in which it doesn't work and I haven't fixed it yet. Please do not use for reference as it is not yet complete!
-
+This project determines the winner of a scrabble game based on user inputted words. Assigned on CS50’s Week 2, Lab 2. Code works fine but after running a few tests other than the standart ones, there is one specific context in which it doesn't work and I haven't fixed it yet. Please do not use for reference as it is not yet complete! 
 (TO DO: fix "Oh, / hai!" bug)
 
 
